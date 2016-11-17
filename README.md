@@ -1,2 +1,2 @@
 # HipsterSite
-# Build a responsive UI website 
+# Build a responsive UI website with Bootstrap
